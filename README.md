@@ -41,14 +41,14 @@ Designing scalable data pipelines and deploying Machine Learning models to extra
 <td width="25%" align="center"><strong>2</strong><br /><sub>Repositories</sub></td>
 <td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
 <td width="25%" align="center"><strong>29</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
 </tr>
 </table>
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=pedroglorenzo&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90767811%3Fu%3D030e17d4112e5a8e43b6ba0648af2e90c84faf0e%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=pedroglorenzo&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90767811%3Fu%3D030e17d4112e5a8e43b6ba0648af2e90c84faf0e%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Pedro García GitHub proof metrics" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=pedroglorenzo&theme=github-dark&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=pedroglorenzo&theme=github-dark&v=recruiter-stats-1&mode=dark" width="100%" alt="Pedro García GitHub proof metrics" />
 </picture>
 </p>
 
@@ -58,14 +58,14 @@ Designing scalable data pipelines and deploying Machine Learning models to extra
 <tr>
 <td width="58%" valign="top">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=pedroglorenzo&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90767811%3Fu%3D030e17d4112e5a8e43b6ba0648af2e90c84faf0e%26v%3D4&repos=pedroglorenzo%2Fsys-telemetry-monitor%2FTrabajo_DLP%2Cpedroglorenzo%2FSoftware-Desing%2Cpedroglorenzo&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=pedroglorenzo&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90767811%3Fu%3D030e17d4112e5a8e43b6ba0648af2e90c84faf0e%26v%3D4&repos=pedroglorenzo%2Fsys-telemetry-monitor%2FTrabajo_DLP%2Cpedroglorenzo%2FSoftware-Desing%2Cpedroglorenzo&v=recruiter-projects-1&mode=dark" width="100%" alt="Pedro García selected projects" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=pedroglorenzo&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90767811%3Fu%3D030e17d4112e5a8e43b6ba0648af2e90c84faf0e%26v%3D4&repos=pedroglorenzo%2Fsys-telemetry-monitor%2FTrabajo_DLP%2Cpedroglorenzo%2FSoftware-Desing%2Cpedroglorenzo%2FAlgoritmos1%2Cpedroglorenzo&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=pedroglorenzo&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F90767811%3Fu%3D030e17d4112e5a8e43b6ba0648af2e90c84faf0e%26v%3D4&repos=pedroglorenzo%2Fsys-telemetry-monitor%2FTrabajo_DLP%2Cpedroglorenzo%2FSoftware-Desing%2Cpedroglorenzo%2FAlgoritmos1%2Cpedroglorenzo&v=recruiter-projects-1&mode=dark" width="100%" alt="Pedro García selected projects" />
 </picture>
 </td>
 <td width="42%" valign="top">
 <h3><a href="https://github.com/PedroGLorenzo/sys-telemetry-monitor">sys-telemetry-monitor</a></h3>
 <p>An End-to-End system telemetry monitor that collects, processes, and analyzes metrics in real-time using Python, Machine Learning (Isolation Forest),</p>
-<p><sub>OCaml · ⭐ 0 · 🍴 0</sub></p>
+<p><sub>Python · ⭐ 0 · 🍴 0</sub></p>
 <p><a href="https://github.com/PedroGLorenzo/sys-telemetry-monitor">Read the repository →</a></p>
 </td>
 </tr>
@@ -73,8 +73,10 @@ Designing scalable data pipelines and deploying Machine Learning models to extra
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/angelbarreiros/Software-Desing">Software-Desing</a></h3><p>A selected public project.</p><p><sub>Java · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/PedroGLorenzo/Trabajo_DLP">Trabajo_DLP</a></h3><p>A selected public project.</p><p><sub>OCaml · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/angelbarreiros/Software-Desing">Software-Desing</a></h3><p>A selected public project.</p><p><sub>Java · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/PedroGLorenzo/Trabajo_DLP">Trabajo_DLP</a></h3><p>A selected public project.</p><p><sub>OCaml · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/PedroGLorenzo/Algoritmos1">Algoritmos1</a></h3><p>A selected public project.</p><p><sub>C · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/PedroGLorenzo/Pro2">Pro2</a></h3><p>A selected public project.</p><p><sub>C · ⭐ 0</sub></p></td>
 </tr>
 </table>
 
@@ -89,10 +91,11 @@ Designing scalable data pipelines and deploying Machine Learning models to extra
 
 <table width="100%">
 <tr>
-<td width="25%" align="center"><strong>Python</strong><br /><sub>13% of public code</sub></td>
-<td width="25%" align="center"><strong>OCaml</strong><br /><sub>85% of public code</sub></td>
-<td width="25%" align="center"><strong>Dockerfile</strong><br /><sub>1% of public code</sub></td>
-<td width="25%" align="center"><strong>Makefile</strong><br /><sub>1% of public code</sub></td>
+<td width="20%" align="center"><strong>C</strong><br /><sub>46% of public code</sub></td>
+<td width="20%" align="center"><strong>OCaml</strong><br /><sub>21% of public code</sub></td>
+<td width="20%" align="center"><strong>Makefile</strong><br /><sub>13% of public code</sub></td>
+<td width="20%" align="center"><strong>CMake</strong><br /><sub>11% of public code</sub></td>
+<td width="20%" align="center"><strong>Shell</strong><br /><sub>6% of public code</sub></td>
 </tr>
 </table>
 
